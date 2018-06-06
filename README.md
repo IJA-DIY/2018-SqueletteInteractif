@@ -1,1 +1,4 @@
-# 2018-SqueletteInteractif
+# SqueletteInteractif
+Touchboard
+Capteur de son
+Capteur de distance
